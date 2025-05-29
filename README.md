@@ -1,2 +1,15 @@
-# -
-This is a simple Python-based auto clicker that automates mouse or keyboard clicking at a user-defined interval.
+自動連點器 使用說明
+====================
+
+這是一款使用 Python 製作的簡易自動連點工具，可透過設定鍵盤按鍵或滑鼠按鍵，實現自動點擊功能。
+
+使用說明：
+--------------------
+1. 確保你已安裝 Python 3 或以上版本。
+2. 開啟終端機，輸入以下指令安裝必要套件：
+   pip install pynput
+3. 執行 自動連點器.exe 開始使用。
+4. 在程式中輸入你想要自動點擊的按鍵（例如0～9、英文A～Z或是滑鼠左、右鍵），並設定點擊間隔時間（秒）。
+5. 按下 F8 鍵即可開始 / 停止連點。
+
+作者：tank8964x
